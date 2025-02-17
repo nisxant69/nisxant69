@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nisxant69" target="blank"><img src="https://img.shields.io/twitter/follow/nisxant69?logo=twitter&style=for-the-badge" alt="nisxant69" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m not working as of now.
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nisxant69@gmail.com**
 
-- ⚡ Fun fact **IDK://**
+- ⚡ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
