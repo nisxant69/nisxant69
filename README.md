@@ -24,7 +24,7 @@
 ## 🚀 About Me <br>
 **🔭 Currently: Exploring new opportunities**<br>
 **🌱 Learning: Data Structures & Algorithms** <br>
-**👨‍💻 Portfolio: nishantakhadka.com.np** <br>
+**👨‍💻 [👨‍💻 Portfolio: nisxant69.tech](https://nisxant69.tech)** <br>
 **📫 Email: nisxant69@gmail.com** <br>
 <br>
 
