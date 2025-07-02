@@ -3,12 +3,11 @@
 <p align="center"> 
   <a href="https://instagram.com/nisxant69" target="_blank"> 
     <img src="https://img.shields.io/badge/Follow-%40nisxant69-blue?style=for-the-badge" alt="nisxant69" /> 
-  </a> 
+  </a>
+  <a href="https://github.com/nisxant69" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https://github-profile-views-psi.vercel.app/api/views&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nisxant69&label=👀%20Visitors&color=ff69b4&style=for-the-badge" alt="profile views" />
-</p> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Waving Astronaut" width="100%" height="100%" />
