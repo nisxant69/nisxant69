@@ -23,38 +23,21 @@
 <br>
 
 ## 🌐 Connect with Me
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 6px;">
-  <span>
-    <a href="https://twitter.com/nisxant69" target="_blank">
-      <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=plastic&logo=x&logoColor=white" alt="Twitter">
-    </a>
-  </span>
-  <span>
-    <a href="https://www.linkedin.com/in/nisxant69" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </span>
-  <span>
-    <a href="https://instagram.com/nisxant69" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </span>
-  <span>
-    <a href="https://facebook.com/nisxant69" target="_blank">
-      <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-  </span>
-  <!-- <span>
-    <a href="https://www.reddit.com/user/nisxant69" target="_blank">
-      <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?style=plastic&logo=reddit&logoColor=white" alt="Reddit">
-    </a>
-  </span> -->
-  <!-- <span>
-    <a href="https://discord.com/users/nisxant69" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord">
-    </a>
-  </span> -->
-</div>
+<p align="center">
+  <a href="https://twitter.com/nisxant69" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=plastic&logo=x&logoColor=white" alt="Twitter">
+  </a>     
+  <a href="https://www.linkedin.com/in/nisxant69" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/nisxant69" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/nisxant69" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
 
 <br>
 
